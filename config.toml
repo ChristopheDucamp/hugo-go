@@ -1,4 +1,3 @@
 title = "Mon Nouveau Site Hugo"
 baseurl = ""
-canonifyurls = true
 languageCode = "fr-fr"
