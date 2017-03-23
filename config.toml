@@ -1,4 +1,4 @@
 title = "Mon Nouveau Site Hugo"
-baseurl = "https://ChristopheDucamp.github.io/hugo-go-public"
+baseurl = ""
 canonifyurls = true
 languageCode = "fr-fr"
